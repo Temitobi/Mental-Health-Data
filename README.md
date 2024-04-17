@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # ANALYSIS OF THE 2014 - 2016 GLOBAL MENTAL HEALTH SURVEY
+![img](pngtree-mental-health-concept-with-brain-png-image_2352847.jpg)
+
 ## Overview
 >This dataset records a global survey conducted to track trends in mental health. The data covers a range of variables such as levels of stress, depression, anxiety, subjective well-being, and use of mental health services. The survey involved respondents from various demographic backgrounds, including gender, employment status, and geographic region.
 ## Aim
